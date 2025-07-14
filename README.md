@@ -51,4 +51,4 @@ Tools Used: HTML/CSS, JavaScript, Go (Golang), WebSockets.
 
 ---
 
-> I'm actively seeking opportunities to grow as a full-stack or backend developer. Let’s connect!
+> I'm actively seeking opportunities to grow as a full-stack Developer. Let’s connect!
