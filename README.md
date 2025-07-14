@@ -30,7 +30,7 @@
 Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.
 Flutter, .NET, Firebase, Cloudflare
 
-💬 [Real-Time Forum](https://github.com/alqassmiii)  
+💬 [Real-Time Forum]((https://github.com/alqassmiii/real-time-forum))  
 Built a full-featured real-time forum web application with a JavaScript frontend and Go backend.
 Implemented WebSocket communication for instant messaging and live updates. Users can create posts, comment on discussions, and engage in live chat within topic threads. The platform supports dynamic content updates, real-time interactions, and structured forum navigation.
 Tools Used: HTML/CSS, JavaScript, Go (Golang), WebSockets.
