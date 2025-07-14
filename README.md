@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**alqassmiii/alqassmiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Qassim Aljaafar
 
-Here are some ideas to get you started:
+🎓 **Software Engineer** from Bahrain  
+💼 Passionate about building practical, user-focused applications  
+🌐 Experienced in **mobile and web development**  
+🚀 Always exploring new technologies and real-world problem solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technologies & Skills
+
+**Languages & Frameworks:**  
+- 🦫 Golang (Go)
+- ⚙️ .NET / C#
+- 📱 Flutter (Dart)
+- 🌐 JavaScript, HTML, CSS
+- 🧪 Unit Testing & Integration Testing
+- 🔗 GraphQL & REST APIs
+
+**Tools & Platforms:**  
+- 🐳 Docker
+- 💾 Oracle & MySQL
+- 🔧 Git, GitHub, Postman, WebSockets
+
+
+## 📂 Projects (More coming soon!)
+
+🚗 [Garagecom (Graduation Project)](https://github.com/alqassmiii)  
+Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.
+Flutter, .NET, Firebase, Cloudflare
+
+💬 [Real-Time Forum](https://github.com/alqassmiii)  
+Built a full-featured real-time forum web application with a JavaScript frontend and Go backend.
+Implemented WebSocket communication for instant messaging and live updates. Users can create posts, comment on discussions, and engage in live chat within topic threads. The platform supports dynamic content updates, real-time interactions, and structured forum navigation.
+Tools Used: HTML/CSS, JavaScript, Go (Golang), WebSockets.
+
+
+
+
+
+
+---
+
+## 🔗 Connect with Me
+
+📧 qassimhassan9@gmail.com  
+📞 +973-66707008  
+🌐 [LinkedIn](https://www.linkedin.com/in/qassim-aljaffer)  
+
+
+---
+
+> I'm actively seeking opportunities to grow as a full-stack or backend developer. Let’s connect!
