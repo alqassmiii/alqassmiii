@@ -26,7 +26,7 @@
 
 ## 📂 Projects (More coming soon!)
 
-🚗 [Garagecom (Graduation Project)](https://github.com/alqassmiii)  
+🚗 [Garagecom (Graduation Project)](https://github.com/alqassmiii/Garagecom/)  
 Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.
 Flutter, .NET, Firebase, Cloudflare
 
