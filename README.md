@@ -14,7 +14,7 @@
 - 🦫 Golang (Go)
 - ⚙️ .NET / C#
 - 📱 Flutter (Dart)
-- 🌐 JavaScript, HTML, CSS
+- 🌐 JavaScript, HTML, CSS, Tailwind
 - 🧪 Unit Testing & Integration Testing
 - 🔗 GraphQL & REST APIs
 
