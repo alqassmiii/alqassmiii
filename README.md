@@ -35,7 +35,7 @@ Built a full-featured real-time forum web application with a JavaScript frontend
 Implemented WebSocket communication for instant messaging and live updates. Users can create posts, comment on discussions, and engage in live chat within topic threads. The platform supports dynamic content updates, real-time interactions, and structured forum navigation.
 Tools Used: HTML/CSS, JavaScript, Go (Golang), WebSockets.
 
-👨‍💻[Graphql]((https://github.com/alqassmiii/GraphQL.)
+👨‍💻[Graphql](https://github.com/alqassmiii/GraphQL.)
 A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.
 Tools Used: JavaScript, Thaillwind, GraphQL queries, JWT Authentication, SVG Graphs
 
