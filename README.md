@@ -14,13 +14,14 @@
 - 🦫 Golang (Go)
 - ⚙️ .NET / C#
 - 📱 Flutter (Dart)
-- 🌐 JavaScript, HTML, CSS, Tailwind
+- 🌐 JavaScript، React.js, Next.js, node.js,
+- 🌐 HTML, CSS, Tailwind
 - 🧪 Unit Testing & Integration Testing
 - 🔗 GraphQL & REST APIs
 
 **Tools & Platforms:**  
 - 🐳 Docker
-- 💾 Oracle & MySQL
+- 💾 SQLlite & MySQL
 - 🔧 Git, GitHub, Postman, WebSockets
 
 
