@@ -29,14 +29,17 @@
 
 🚗 **[Garagecom (Graduation Project)](https://github.com/alqassmiii/Garagecom/)**  
 Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.  
+
 **Tools Used:** Flutter, .NET, Firebase, Cloudflare  
 
 💬 **[Gigabit Social Network](https://github.com/alqassmiii/Social-Network)**  
 Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.  
+
 **Tools Used:** Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS  
 
 👨‍💻 **[Graphql](https://github.com/alqassmiii/GraphQL.)**  
 A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.  
+
 **Tools Used:** JavaScript, Tailwind, GraphQL queries, JWT Authentication, SVG Graphs  
 
 👾 **[Game](https://github.com/alqassmiii/My-small-game)**  
