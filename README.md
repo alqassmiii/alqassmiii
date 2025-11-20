@@ -32,8 +32,8 @@ Developed a mobile app that enables users to manage car maintenance schedules, t
 Flutter, .NET, Firebase, Cloudflare
 
 💬 [Gigabit Social Network](https://github.com/alqassmiii/Social-Network) 
-
-Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.
+Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, 
+manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.
 Tools Used: Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS..
 
 👨‍💻[Graphql](https://github.com/alqassmiii/GraphQL.)
