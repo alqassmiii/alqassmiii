@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Qassim Aljaafar
 
 🎓 **Software Engineer** from Bahrain  
@@ -11,48 +10,40 @@
 ## 💻 Technologies & Skills
 
 **Languages & Frameworks:**  
-- 🦫 Golang (Go)
-- ⚙️ .NET / C#
-- 📱 Flutter (Dart)
-- 🌐 JavaScript، React.js, Next.js, node.js,
-- 🌐 HTML, CSS, Tailwind
-- 🧪 Unit Testing & Integration Testing
-- 🔗 GraphQL & REST APIs
+- 🦫 Golang (Go)  
+- ⚙️ .NET / C#  
+- 📱 Flutter (Dart)  
+- 🌐 JavaScript، React.js, Next.js, Node.js  
+- 🌐 HTML, CSS, Tailwind  
+- 🧪 Unit Testing & Integration Testing  
+- 🔗 GraphQL & REST APIs  
 
 **Tools & Platforms:**  
-- 🐳 Docker
-- 💾 SQLlite & MySQL
-- 🔧 Git, GitHub, Postman, WebSockets
+- 🐳 Docker  
+- 💾 SQLite & MySQL  
+- 🔧 Git, GitHub, Postman, WebSockets  
 
+---
 
 ## 📂 Projects (More coming soon!)
 
-🚗 [Garagecom (Graduation Project)](https://github.com/alqassmiii/Garagecom/)  
-Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.
-Tools Used: Flutter, .NET, Firebase, Cloudflare
+🚗 **[Garagecom (Graduation Project)](https://github.com/alqassmiii/Garagecom/)**  
+Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.  
+**Tools Used:** Flutter, .NET, Firebase, Cloudflare  
 
-💬 [Gigabit Social Network](https://github.com/alqassmiii/Social-Network) 
+💬 **[Gigabit Social Network](https://github.com/alqassmiii/Social-Network)**  
+Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.  
+**Tools Used:** Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS  
 
-Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, 
-manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.
+👨‍💻 **[Graphql](https://github.com/alqassmiii/GraphQL.)**  
+A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.  
+**Tools Used:** JavaScript, Tailwind, GraphQL queries, JWT Authentication, SVG Graphs  
 
-Tools Used: Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS..
-
-👨‍💻[Graphql](https://github.com/alqassmiii/GraphQL.)
-A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.
-Tools Used: JavaScript, Thaillwind, GraphQL queries, JWT Authentication, SVG Graphs
-
-👾[Game](https://github.com/alqassmiii/My-small-game)
+👾 **[Game](https://github.com/alqassmiii/My-small-game)**  
 A simple browser-based space shooter game. Move your spaceship, shoot enemies, and try to win!
 
-💬[net-cat](https://github.com/alqassmiii/net-cat)
+💬 **[net-cat](https://github.com/alqassmiii/net-cat)**  
 Net-Cat is a simple TCP-based chat server implemented in Go. It allows multiple clients to join a chatroom, exchange messages, and keep logs of all chat activities. This project simulates the behavior of NetCat but extends it to include features like client names, message broadcasting, and chat history logging.
-
-
-
-
-
-
 
 ---
 
@@ -61,7 +52,6 @@ Net-Cat is a simple TCP-based chat server implemented in Go. It allows multiple 
 📧 qassimhassan9@gmail.com  
 📞 +973-66707008  
 🌐 [LinkedIn](https://www.linkedin.com/in/qassim-aljaffer)  
-
 
 ---
 
