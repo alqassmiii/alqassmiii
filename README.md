@@ -31,10 +31,9 @@
 Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.
 Flutter, .NET, Firebase, Cloudflare
 
-💬 [Real-Time Forum](https://github.com/alqassmiii/real-time-forum) 
-Built a full-featured real-time forum web application with a JavaScript frontend and Go backend.
-Implemented WebSocket communication for instant messaging and live updates. Users can create posts, comment on discussions, and engage in live chat within topic threads. The platform supports dynamic content updates, real-time interactions, and structured forum navigation.
-Tools Used: HTML/CSS, JavaScript, Go (Golang), WebSockets.
+💬 [2.	Gigabit Social Network](https://github.com/alqassmiii/Social-Network) 
+Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.
+Tools Used: Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS..
 
 👨‍💻[Graphql](https://github.com/alqassmiii/GraphQL.)
 A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.
@@ -45,6 +44,8 @@ A simple browser-based space shooter game. Move your spaceship, shoot enemies, a
 
 💬[net-cat](https://github.com/alqassmiii/net-cat)
 Net-Cat is a simple TCP-based chat server implemented in Go. It allows multiple clients to join a chatroom, exchange messages, and keep logs of all chat activities. This project simulates the behavior of NetCat but extends it to include features like client names, message broadcasting, and chat history logging.
+
+
 
 
 
