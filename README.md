@@ -1,61 +1,88 @@
-# 👋 Hi, I'm Qassim Aljaafar
-
-🎓 **Software Engineer** from Bahrain  
-💼 Passionate about building practical, user-focused applications  
-🌐 Experienced in **mobile and web development**  
-🚀 Always exploring new technologies and real-world problem solving  
+# Qassim Aljaffer
+**Software Engineer · Mobile & Full-Stack Specialist**
+Bahrain · Open to opportunities in Bahrain & GCC
 
 ---
 
-## 💻 Technologies & Skills
+## About Me
 
-**Languages & Frameworks:**  
-- 🦫 Golang (Go)  
-- ⚙️ .NET / C#  
-- 📱 Flutter (Dart)  
-- 🌐 JavaScript، React.js, Next.js, Node.js  
-- 🌐 HTML, CSS, Tailwind  
-- 🧪 Unit Testing & Integration Testing  
-- 🔗 GraphQL & REST APIs  
-
-**Tools & Platforms:**  
-- 🐳 Docker  
-- 💾 SQLite & MySQL  
-- 🔧 Git, GitHub, Postman, WebSockets  
+Software Engineer with 2+ years of production experience building mobile and full-stack applications.
+I specialise in React Native and Node.js, and I've independently shipped a live fintech app on the Apple App Store.
+Strong foundation in backend API design, cross-platform mobile development, and database integration.
+I own projects end-to-end — from architecture and design to deployment and production.
 
 ---
 
-## 📂 Projects (More coming soon!)
+## Tech Stack
 
-🚗 **[Garagecom (Graduation Project)](https://github.com/alqassmiii/Garagecom/)**  
-Developed a mobile app that enables users to manage car maintenance schedules, track service history, connect with car owner communities, and analyze dashboard symbols using AI-powered camera input. Created as a graduation project at the University of Bahrain.  
+**Mobile & Frontend**
+React Native · Flutter (Dart) · React.js · Next.js · Expo · Tailwind CSS · HTML/CSS
 
-**Tools Used:** Flutter, .NET, Firebase, Cloudflare  
+**Backend**
+Node.js · Golang · .NET (C#) · PHP · REST APIs · GraphQL · WebSockets
 
-💬 **[Gigabit Social Network](https://github.com/alqassmiii/Social-Network)**  
-Built a full-stack social networking platform with Next.js frontend and Go backend. Implemented WebSocket communication for instant messaging, live updates and notifications. Users can create posts, comment on discussions, join groups, manage events, and engage in real-time chat. Features include session-based authentication, privacy controls, polls, and advanced search functionality.  
+**Databases & Tools**
+MySQL · SQLite · Oracle DB · Firebase · Docker · Git · Postman · Figma · JWT · Xcode
 
-**Tools Used:** Golang, Next.js, TypeScript, React, WebSockets, SQLite, Docker, Tailwind CSS  
-
-👨‍💻 **[Graphql](https://github.com/alqassmiii/GraphQL.)**  
-A modern React.js dashboard application for visualizing user profile data from a GraphQL API. This application provides comprehensive insights into user progress, experience points, project completion, audit performance, and skill development.  
-
-**Tools Used:** JavaScript, Tailwind, GraphQL queries, JWT Authentication, SVG Graphs  
-
-👾 **[Game](https://github.com/alqassmiii/My-small-game)**  
-A simple browser-based space shooter game. Move your spaceship, shoot enemies, and try to win!
-
-💬 **[net-cat](https://github.com/alqassmiii/net-cat)**  
-Net-Cat is a simple TCP-based chat server implemented in Go. It allows multiple clients to join a chatroom, exchange messages, and keep logs of all chat activities. This project simulates the behavior of NetCat but extends it to include features like client names, message broadcasting, and chat history logging.
+**Languages**
+JavaScript · TypeScript · Dart · Golang · Java · C++ · C#
 
 ---
 
-## 🔗 Connect with Me
+## Featured Projects
 
-📧 qassimhassan9@gmail.com  
-📞 +973-66707008  
-🌐 [LinkedIn](https://www.linkedin.com/in/qassim-aljaffer)  
+### 📱 GFX Securities — Live Financial Trading App
+> React Native · Expo · PHP · REST APIs · Figma · Xcode · cPanel
+
+Independently designed, built, and shipped a full-scale financial trading application for GFX Securities.
+Live on the Apple App Store. Built secure authentication, wallet management, deposits, and withdrawals —
+solo, from concept to App Store deployment.
+
+🔗 [View on App Store](https://apps.apple.com/bh/app/gfx-securities/id6748979033)
 
 ---
 
-> I'm actively seeking opportunities to grow as a full-stack Developer. Let’s connect!
+### 🚗 GarageCom — AI Car Maintenance App (Graduation Project)
+> Flutter · .NET · Firebase · Cloudflare · MySQL · Git
+
+Mobile app for managing car maintenance schedules, tracking service history, and connecting with car
+owner communities. Features an AI-powered camera that analyses dashboard warning symbols in real time
+and delivers diagnostic results to the user. Built as graduation project at the University of Bahrain.
+
+🔗 [GitHub](https://github.com/alqassmiii/Garagecom)
+
+---
+
+### 💬 Gigabit — Full-Stack Social Network
+> Golang · Next.js · TypeScript · React · WebSockets · SQLite · Docker · Tailwind CSS
+
+Full-stack social networking platform with real-time WebSocket messaging, live notifications, posts,
+comments, groups, events, polls, and advanced search. Session-based authentication with privacy controls.
+
+🔗 [GitHub](https://github.com/alqassmiii/Social-Network)
+
+---
+
+### 📊 GraphQL Dashboard
+> JavaScript · React.js · GraphQL · JWT · Tailwind CSS · SVG
+
+React dashboard for visualising user profile data from a GraphQL API — XP progress, project completion,
+audit ratios, and skill development charts built with raw SVG.
+
+🔗 [GitHub](https://github.com/alqassmiii/GraphQL.)
+
+---
+
+## Experience Highlights
+
+- **Mobile App Developer** — GFX Securities *(Feb 2026 – Present)*
+- **Software Engineer** — CareComm Business Services & Marketing *(Oct 2025 – Jun 2026)*
+- **Software Engineer Trainee** — Gulf Aluminum Rolling Mill *(Jul 2025 – Sep 2025)*
+
+---
+
+## Let's Connect
+
+📧 qassimhassan9@gmail.com
+💼 [linkedin.com/in/qassim-aljaffer](https://linkedin.com/in/qassim-aljaffer)
+📞 +973 66707008
